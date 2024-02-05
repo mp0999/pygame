@@ -1,5 +1,5 @@
-pygame is a interesting little game
+# pygame is a interesting little game
  
-# number guesses game chooses your own number
-# Snack(s) water(w) or gun(g) game 
-# Quiz game 
+1. number guesses game chooses your own number
+2. Snack(s) water(w) or gun(g) game 
+3. Quiz game 
